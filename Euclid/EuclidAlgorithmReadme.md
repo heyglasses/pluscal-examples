@@ -1,0 +1,2 @@
+# Euclid Algorithm
+This program is the coded version of the Euclid algorithm described on pages 4-5 of Leslie Lamport's The PlusCal Algorithm Language. An additional print statement was added in order to show the user that the model is working properly. 
