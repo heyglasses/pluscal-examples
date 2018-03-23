@@ -1,0 +1,4 @@
+# Puzzle from NPR's Car Talk
+Here is the problem.  A farmer has a 40 pound stone and a balance scale.  How can he break the stone into 4 pieces so that, using those pieces and the balance scale, he can weigh out any integral number of pounds of corn from 1 pound through 40 pounds.
+
+This code <b>does not</b> contain any PlusCal syntax. Running `⌘ + t` will cause a parsing error, because there is no `--algorithm` statement. Instead to parse this program, run `⌘ + r`. To execute the model properly, specify the values of N and P in the <b>Model Overview</b> tab. Then, switch to the <b>Model Checking Results</b> tab and type `AllSolutions` into the <i>Evaluate Constant Expression</i> box.
